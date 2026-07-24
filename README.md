@@ -1,12 +1,12 @@
 <div align="center">
 <!-- Light Mode Header -->
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=260&section=header&text=𝙳𝚒𝚐𝚎𝚜𝚑𝚠𝚊𝚛&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=𝐽𝑎𝑣𝑎%20𝐹𝑢𝑙𝑙%20𝑆𝑡𝑎𝑐𝑘%20𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟&descAlignY=58&descSize=18"/>
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=260&section=header&text=Arun%20Soni�&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=𝐽𝑎𝑣𝑎%20𝐹𝑢𝑙𝑙%20𝑆𝑡𝑎𝑐𝑘%20𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟&descAlignY=58&descSize=18"/>
 </a>
 
 <!-- Dark Mode Header -->
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:ff0000&height=260&section=header&text=𝙳𝚒𝚐𝚎𝚜𝚑𝚠𝚊𝚛&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=𝐽𝑎𝑣𝑎%20𝐹𝑢𝑙𝑙%20𝑆𝑡𝑎𝑐𝑘%20𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟&descAlignY=58&descSize=18"/>
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:ff0000&height=260&section=header&text=Arun%20Soni�&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=𝐽𝑎𝑣𝑎%20𝐹𝑢𝑙𝑙%20𝑆𝑡𝑎𝑐𝑘%20𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟&descAlignY=58&descSize=18"/>
 </a>
 
    <div align="center">
@@ -14,37 +14,37 @@
    </div>
 
 <!-- Light Mode Typing -->
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=1000&lines=Eat+%7C+Sleep+%7C+Code+%7C+Build+%7C+Scale+%7C+Repeat;Building+Scalable+Applications+with+Java;Clean+Code+%7C+Secure+APIs+%7C+Better+Systems;Developing+Solutions+for+Real+Problems;Simplicity+is+the+Ultimate+Sophistication"/>
 </a>
 
 <!-- Dark Mode Typing -->
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=FF512F&center=true&vCenter=true&width=1000&lines=Eat+%7C+Sleep+%7C+Code+%7C+Build+%7C+Scale+%7C+Repeat;Building+Scalable+Applications+with+Java;Clean+Code+%7C+Secure+APIs+%7C+Better+Systems;Developing+Solutions+for+Real+Problems;Simplicity+is+the+Ultimate+Sophistication"/>
 </a>
 
 
    <div align="center">
-     <a href="https://github.com/G1thub-05" style="text-decoration:none; border:none;">
+     <a href="https://github.com/G1thub-12" style="text-decoration:none; border:none;">
        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
      </a>
-     <a href="https://linkedin.com/in/mr-digeshwar05" style="text-decoration:none; border:none;">
+     <a href="https://linkedin.com/in/mr-Arun%20Soni05" style="text-decoration:none; border:none;">
        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
      </a>
-       <a href="mailto:Mr.Digeshwar05@gmail.com" style="text-decoration:none; border:none;">
+       <a href="mailto:Mr.Arun%20Soni05@gmail.com" style="text-decoration:none; border:none;">
        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
      </a>
-     <a href="https://instagram.com/mr._.digeshwar05" style="text-decoration:none; border:none;">
+     <a href="https://instagram.com/mr._.Arun%20Soni05" style="text-decoration:none; border:none;">
        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
      </a>
   <!-- Light Mode -->
-  <a href="https://github.com/G1thub-05#gh-light-mode-only">
-    <img src="https://komarev.com/ghpvc/?username=G1thub-05&style=flat-square&color=00c6ff" alt="Profile views" />
+  <a href="https://github.com/G1thub-12#gh-light-mode-only">
+    <img src="https://komarev.com/ghpvc/?username=G1thub-12&style=flat-square&color=00c6ff" alt="Profile views" />
   </a>
   
   <!-- Dark Mode -->
-  <a href="https://github.com/G1thub-05#gh-dark-mode-only">
-    <img src="https://komarev.com/ghpvc/?username=G1thub-05&style=flat-square&color=ff512f" alt="Profile views" />
+  <a href="https://github.com/G1thub-12#gh-dark-mode-only">
+    <img src="https://komarev.com/ghpvc/?username=G1thub-12&style=flat-square&color=ff512f" alt="Profile views" />
   </a>
    </div>
 
@@ -53,12 +53,12 @@
 
 <div align="center">
 <!-- Light Mode Footer -->
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=120&section=footer"/>
 </a>
 
 <!-- Dark Mode Footer -->
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:ff0000&height=120&section=footer"/>
 </a>
 </div>
@@ -87,59 +87,59 @@
 
 ## 🏆 𝐴𝑐ℎ𝑖𝑒𝑣𝑒𝑚𝑒𝑛𝑡𝑠
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=G1thub-05&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=G1thub-12&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=8"/>
 </div>
 
 ## ⚙️ 𝐺𝑖𝑡ℎ𝑢𝑏 𝐴𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠
 <div align="center">
 <!-- Light Mode -->
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G1thub-05&show_icons=true&theme=default&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=24292f&bg_color=ffffff"/>
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G1thub-12&show_icons=true&theme=default&hide_border=true&title_color=00c6ff&icon_color=0072ff&text_color=24292f&bg_color=ffffff"/>
 </a>
 
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
-  <img width="48%" src="https://streak-stats.demolab.com?user=G1thub-05&theme=default&hide_border=true&background=ffffff&ring=00c6ff&fire=0072ff&currStreakLabel=0072ff&sideNums=24292f&sideLabels=24292f&dates=6b7280"/>
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
+  <img width="48%" src="https://streak-stats.demolab.com?user=G1thub-12&theme=default&hide_border=true&background=ffffff&ring=00c6ff&fire=0072ff&currStreakLabel=0072ff&sideNums=24292f&sideLabels=24292f&dates=6b7280"/>
 </a>
 
 <!-- Dark Mode -->
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G1thub-05&show_icons=true&theme=radical&hide_border=true&title_color=ff512f&icon_color=ff1744&text_color=ffffff&bg_color=0d1117"/>
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G1thub-12&show_icons=true&theme=radical&hide_border=true&title_color=ff512f&icon_color=ff1744&text_color=ffffff&bg_color=0d1117"/>
 </a>
 
 
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
-  <img width="48%" src="https://streak-stats.demolab.com?user=G1thub-05&theme=radical&hide_border=true&background=0d1117&ring=ff512f&fire=ff1744&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af"/>
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
+  <img width="48%" src="https://streak-stats.demolab.com?user=G1thub-12&theme=radical&hide_border=true&background=0d1117&ring=ff512f&fire=ff1744&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af"/>
 </a>
 </div>
 
 ## 📊 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑢𝑚𝑚𝑎𝑟𝑦
 <div align="center">
 <!-- Light Mode -->
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G1thub-05&theme=github"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G1thub-05&theme=github"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G1thub-05&theme=github"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G1thub-05&theme=github&utcOffset=5.5"/>
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G1thub-12&theme=github"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G1thub-12&theme=github"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G1thub-12&theme=github"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G1thub-12&theme=github&utcOffset=5.5"/>
 </a>
 
 <!-- Dark Mode -->
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G1thub-05&theme=github_dark"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G1thub-05&theme=github_dark"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G1thub-05&theme=github_dark"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G1thub-05&theme=github_dark&utcOffset=5.5"/>
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G1thub-12&theme=github_dark"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G1thub-12&theme=github_dark"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G1thub-12&theme=github_dark"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G1thub-12&theme=github_dark&utcOffset=5.5"/>
 </a>
 </div>
 
 ## 📈 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ
 <div align="center">
 <!-- Light Mode -->
-<a href="https://github.com/G1thub-05#gh-light-mode-only">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G1thub-05&theme=github"/>
+<a href="https://github.com/G1thub-12#gh-light-mode-only">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G1thub-12&theme=github"/>
 </a>
 
 <!-- Dark Mode -->
-<a href="https://github.com/G1thub-05#gh-dark-mode-only">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G1thub-05&theme=github_dark"/>
+<a href="https://github.com/G1thub-12#gh-dark-mode-only">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G1thub-12&theme=github_dark"/>
 </a>
 </div>
